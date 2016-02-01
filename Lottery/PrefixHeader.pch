@@ -1,0 +1,13 @@
+//
+//  PrefixHeader.pch
+//  Lottery
+//
+//  Created by llairen on 15/9/17.
+//  Copyright (c) 2015年 llairen. All rights reserved.
+//
+
+#ifndef Lottery_PrefixHeader_pch
+#define Lottery_PrefixHeader_pch
+
+#import "MLBarButtonItem.h"
+#endif
